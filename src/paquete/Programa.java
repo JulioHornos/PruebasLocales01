@@ -13,6 +13,8 @@ public class Programa {
 		RamaCaso1 miRamaCaso1 = new RamaCaso1();
 		
 		miRamaCaso1.pintarRama();
+		
+		System.out.println("Esta salida no está en la rama Caso 2");
 
 	}
 

@@ -13,6 +13,10 @@ public class Programa {
 		RamaCaso1 miRamaCaso1 = new RamaCaso1();
 		
 		miRamaCaso1.pintarRama();
+		
+		RamaCaso2 miRamaCaso2 = new RamaCaso2();
+		
+		miRamaCaso2.pintarRama();
 
 	}
 

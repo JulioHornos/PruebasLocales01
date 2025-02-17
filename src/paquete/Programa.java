@@ -4,7 +4,7 @@ public class Programa {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// Aqui solo pongo un comentario
+		System.out.println("Probando Fetch");
 		System.out.println("prueba de uso de GIT");
 		
 		System.out.println("prueba de add+commit de GIT");

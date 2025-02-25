@@ -18,6 +18,8 @@ public class Programa {
 		System.out.println("Esta salida no está en la rama Caso 2");
 		RamaCaso2 miRamaCaso2 = new RamaCaso2();
 		
+		System.out.println("añadido print");
+		
 		miRamaCaso2.pintarRama();
 
 	}
